@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Age_A_Civil___Card_Back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A Civil - Card Back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A_Military___Card_Back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A Military - Card Back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Agriculture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Agriculture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Alexander_the_Great" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Alexander the Great.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Aristotle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Aristotle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Bronze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Bronze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Colossus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Colossus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Despotism" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Despotism.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Agriculture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Agriculture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Crafts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Crafts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Markets" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Markets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Politics" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Politics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Religion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Religion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Science" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Science.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Settlement" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Settlement.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Trade_Routes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Trade Routes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Development_of_Warfare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Development of Warfare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Engineering_Genius" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Engineering Genius.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___First_Player_Card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - First Player Card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Frugality" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Frugality.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Hammurabi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Hammurabi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Hanging_Gardens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Hanging Gardens.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Homer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Homer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Ideal_Building_Site" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Ideal Building Site.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Julius_Caesar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Julius Caesar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Library_of_Alexandria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Library of Alexandria.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Moses" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Moses.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___No_Event" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - No Event.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Patriotism" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Patriotism.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Philosophy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Philosophy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Pyramids" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Pyramids.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Religion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Religion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Revolutionary_Idea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Revolutionary Idea.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Rich_Land" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Rich Land.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Warriors" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Warriors.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_A___Work_of_Art" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age A - Work of Art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I_Bonus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I Bonus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I_Civil___Card_Back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I Civil - Card Back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I_Military___Card_Back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I Military - Card Back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Alchemy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Alchemy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Alchemy_4_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Alchemy_4 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Barbarians" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Barbarians.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Border_Conflict" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Border Conflict.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Bountiful_Harvest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Bountiful Harvest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Bread_and_Circuses" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Bread and Circuses.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Bread_and_Circuses_3_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Bread and Circuses_3 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Breakthrough" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Breakthrough.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Cartography" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Cartography.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Christopher_Columbus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Christopher Columbus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Code_of_Laws" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Code of Laws.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Crusades" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Crusades.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Cultural_Influence" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Cultural Influence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Developed_Territory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Developed Territory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Developed_Territory_Chit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Developed Territory Chit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Drama" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Drama.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Efficient_Upgrade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Efficient Upgrade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Engineering_Genius" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Engineering Genius.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Enslave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Enslave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Fertile_Territory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Fertile Territory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Fertile_Territory_Chit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Fertile Territory Chit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Fighting_Band" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Fighting Band.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Foray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Foray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Frederick_Barbarrossa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Frederick Barbarrossa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Frugality" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Frugality.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Genghis_Khan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Genghis Khan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Good_Harvest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Good Harvest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Great_Wall_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Great Wall_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Heavy_Cavalry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Heavy Cavalry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Historic_Territory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Historic Territory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Historic_Territory_Chit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Historic Territory Chit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Ideal_Building_Site_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Ideal Building Site_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Immigration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Immigration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Inhabited_Territory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Inhabited Territory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Inhabited_Territory_Chit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Inhabited Territory Chit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Inhabited_Territory_Chit_new" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Inhabited Territory Chit_new.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Iron_4_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Iron_4 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Iron_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Iron_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Irrigation_4_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Irrigation_4 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Irrigation_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Irrigation_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Joan_of_Arc_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Joan of Arc_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___knights_4_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - knights_4 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___knights_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - knights_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Legion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Legion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Leonardo_da_Vinci_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Leonardo da Vinci_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Light_Cavalry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Light Cavalry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Masonry_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Masonry_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___medieval_army" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - medieval army.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Michelangelo_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Michelangelo_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Mineral_Deposits_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Mineral Deposits_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Monarchy_3_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Monarchy_3 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Monarchy_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Monarchy_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___new_Deposits" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - new Deposits.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Open_Borders_Agreement" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Open Borders Agreement.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Patiotism_Age_1_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Patiotism_Age 1_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Pestilence" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Pestilence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Phalanx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Phalanx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Plunder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Plunder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Printing_Press_1_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Printing Press 1_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Raid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Raid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Raiders" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Raiders.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Rats" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Rats.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Rebellion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Rebellion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Reign_of_Terror" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Reign of Terror.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Revolutionary_Idea_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Revolutionary Idea_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Rich_Land_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Rich Land_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___scientific_breakthrough" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - scientific breakthrough.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___strategic_territory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - strategic territory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Strategic_Territory_Chit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Strategic Territory Chit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___St_Peters_Basilica_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - St Peters Basilica_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Swordsmen_4_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Swordsmen_4 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Swordsmen_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Swordsmen_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Taj_Mahal_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Taj Mahal_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Theocracy_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Theocracy_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Theology_3_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Theology_3 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Theology_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Theology_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Trade_Route_Agreements" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Trade Route Agreements.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Uncertain_Borders" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Uncertain Borders.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___universitas_carolina_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - universitas carolina_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___warfare_3_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - warfare_3 player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___warfare_dsn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - warfare_dsn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Wealthy_Territory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Wealthy Territory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Wealthy_Territory_Chit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Wealthy Territory Chit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age_I___Work_of_Art" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\Age I - Work of Art.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlueBoard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\BlueBoard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlueToken_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\BlueToken.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CardPlace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\CardPlace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CulturePoint_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\CulturePoint.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GrayToken_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\GrayToken.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RedBoard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\RedBoard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhiteBoard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\WhiteBoard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YellowBoard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\YellowBoard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YellowTokenSingle2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\YellowTokenSingle2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MilitaryAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>images\militaryap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StartMenu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Images\StartMenu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

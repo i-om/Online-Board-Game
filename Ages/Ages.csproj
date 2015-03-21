@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1128052-D196-4F03-B9A7-E6A18DD39E7A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ages</RootNamespace>
+    <AssemblyName>Ages</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Ages_Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ages_Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Banks\SpecialAP.cs" />
+    <Compile Include="Banks\SpecialResource.cs" />
+    <Compile Include="Cards\ActionCards\ActionCard.cs" />
+    <Compile Include="Cards\ActionCards\Breakthrough.cs" />
+    <Compile Include="Cards\ActionCards\Frugality.cs" />
+    <Compile Include="Cards\ActionCards\Patriotism.cs" />
+    <Compile Include="Cards\ActionCards\RichLand.cs" />
+    <Compile Include="Cards\ActionCards\IdealBuildingSite.cs" />
+    <Compile Include="Cards\BasicCards\AgriCard.cs" />
+    <Compile Include="Cards\ActionCards\DirectActionCard.cs" />
+    <Compile Include="Cards\BasicCards\DirectSpecialCard.cs" />
+    <Compile Include="Cards\BasicCards\MilitaryTechCard.cs" />
+    <Compile Include="Cards\BasicCards\SpecialCard.cs" />
+    <Compile Include="Cards\BasicCards\UrbanBuildingCard.cs" />
+    <Compile Include="Cards\BasicCards\UnitCard.cs" />
+    <Compile Include="DataPack\DestroyUnitPack.cs" />
+    <Compile Include="DataPack\MovePack.cs" />
+    <Compile Include="DataPack\PlayCardPack.cs" />
+    <Compile Include="DataPack\PlayerDataPack.cs" />
+    <Compile Include="Tools\ActionInfo.cs" />
+    <Compile Include="Tools\EnumType.cs" />
+    <Compile Include="Cards\Leader\Aristotle.cs" />
+    <Compile Include="Cards\Leader\Alexander.cs" />
+    <Compile Include="Cards\Leader\Caesar.cs" />
+    <Compile Include="Cards\Leader\Barbarossa.cs" />
+    <Compile Include="Cards\Leader\Mich.cs" />
+    <Compile Include="Cards\Leader\DaVinci.cs" />
+    <Compile Include="Cards\Leader\Joan.cs" />
+    <Compile Include="Cards\Leader\Khan.cs" />
+    <Compile Include="Cards\Leader\Hammurabi.cs" />
+    <Compile Include="Cards\Leader\Homer.cs" />
+    <Compile Include="Cards\Leader\LeaderCard.cs" />
+    <Compile Include="Cards\BasicCards\MineCard.cs" />
+    <Compile Include="DataPack\BuildUnitPack.cs" />
+    <Compile Include="DataPack\IncreasePopuPack.cs" />
+    <Compile Include="DataPack\PickCardPack.cs" />
+    <Compile Include="DataPack\ReversePack.cs" />
+    <Compile Include="GameManager.cs" />
+    <Compile Include="Cards\Leader\Moses.cs" />
+    <Compile Include="Tokens\BlueYellowToken.cs" />
+    <Compile Include="Tokens\RedToken.cs" />
+    <Compile Include="FeedBackText.cs" />
+    <Compile Include="Tools\GenericShuffle.cs" />
+    <Compile Include="Cards\BasicCards\GovCard.cs" />
+    <Compile Include="Tokens\WhiteToken.cs" />
+    <Compile Include="Tokens\Resource.cs" />
+    <Compile Include="Banks\ResourceBank.cs" />
+    <Compile Include="Tools\SimpleAdorner.cs" />
+    <Compile Include="Tokens\Worker.cs" />
+    <Compile Include="Banks\WorkerBank.cs" />
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cards\BasicCards\Card.cs" />
+    <Compile Include="Board\Board.cs" />
+    <Compile Include="ThroughTheAges.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Player.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Ages_Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Ages_Resource.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Age A - Agriculture.png" />
+    <Resource Include="Images\BlueBoard.png" />
+    <Resource Include="Images\CardPlace.png" />
+    <Resource Include="Images\RedBoard.png" />
+    <Resource Include="Images\WhiteBoard.png" />
+    <Resource Include="Images\YellowBoard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Age A - Alexander the Great.png" />
+    <Resource Include="Images\Age A - Aristotle.png" />
+    <Resource Include="Images\Age A - Bronze.png" />
+    <Resource Include="Images\Age A - Colossus.png" />
+    <Resource Include="Images\Age A - Despotism.png" />
+    <Resource Include="Images\Age A - Development of Agriculture.png" />
+    <Resource Include="Images\Age A - Development of Crafts.png" />
+    <Resource Include="Images\Age A - Development of Markets.png" />
+    <Resource Include="Images\Age A - Development of Politics.png" />
+    <Resource Include="Images\Age A - Development of Religion.png" />
+    <Resource Include="Images\Age A - Development of Science.png" />
+    <Resource Include="Images\Age A - Development of Settlement.png" />
+    <Resource Include="Images\Age A - Development of Trade Routes.png" />
+    <Resource Include="Images\Age A - Development of Warfare.png" />
+    <Resource Include="Images\Age A - Engineering Genius.png" />
+    <Resource Include="Images\Age A - First Player Card.png" />
+    <Resource Include="Images\Age A - Frugality.png" />
+    <Resource Include="Images\Age A - Hammurabi.png" />
+    <Resource Include="Images\Age A - Hanging Gardens.png" />
+    <Resource Include="Images\Age A - Homer.png" />
+    <Resource Include="Images\Age A - Ideal Building Site.png" />
+    <Resource Include="Images\Age A - Julius Caesar.png" />
+    <Resource Include="Images\Age A - Library of Alexandria.png" />
+    <Resource Include="Images\Age A - Moses.png" />
+    <Resource Include="Images\Age A - No Event.png" />
+    <Resource Include="Images\Age A - Patriotism.png" />
+    <Resource Include="Images\Age A - Philosophy.png" />
+    <Resource Include="Images\Age A - Pyramids.png" />
+    <Resource Include="Images\Age A - Religion.png" />
+    <Resource Include="Images\Age A - Revolutionary Idea.png" />
+    <Resource Include="Images\Age A - Rich Land.png" />
+    <Resource Include="Images\Age A - Warriors.png" />
+    <Resource Include="Images\Age A - Work of Art.png" />
+    <Resource Include="Images\Age A Civil - Card Back.png" />
+    <Resource Include="Images\Age A Military - Card Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\YellowTokenSingle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\BlueToken.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\GrayToken.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\CulturePoint.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Culture.fw.png" />
+    <Resource Include="Images\Happiness.fw.png" />
+    <Resource Include="Images\Science.fw.png" />
+    <Resource Include="Images\SciencePoint.fw.png" />
+    <Resource Include="Images\Strength.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Alchemy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Alchemy_4 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Barbarians.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Border Conflict.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Bountiful Harvest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Bread and Circuses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Bread and Circuses_3 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Breakthrough.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Cartography.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Christopher Columbus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Code of Laws.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Crusades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Cultural Influence.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Developed Territory Chit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Developed Territory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Drama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Efficient Upgrade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Engineering Genius.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Enslave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Fertile Territory Chit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Fertile Territory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Fighting Band.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Foray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Frederick Barbarrossa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Frugality.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Genghis Khan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Good Harvest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Great Wall_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Heavy Cavalry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Historic Territory Chit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Historic Territory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Ideal Building Site_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Immigration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Inhabited Territory Chit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Inhabited Territory Chit_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Inhabited Territory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Iron_4 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Iron_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Irrigation_4 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Irrigation_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Joan of Arc_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - knights_4 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - knights_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Legion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Leonardo da Vinci_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Light Cavalry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Masonry_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - medieval army.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Michelangelo_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Mineral Deposits_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Monarchy_3 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Monarchy_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - new Deposits.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Open Borders Agreement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Patiotism_Age 1_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Pestilence.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Phalanx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Plunder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Printing Press 1_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Raid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Raiders.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Rats.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Rebellion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Reign of Terror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Revolutionary Idea_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Rich Land_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - scientific breakthrough.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - St Peters Basilica_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Strategic Territory Chit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - strategic territory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Swordsmen_4 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Swordsmen_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Taj Mahal_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Theocracy_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Theology_3 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Theology_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Trade Route Agreements.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Uncertain Borders.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - universitas carolina_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - warfare_3 player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - warfare_dsn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Wealthy Territory Chit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Wealthy Territory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I - Work of Art.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I Bonus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I Civil - Card Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Age I Military - Card Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MilitaryAP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChatBackend\ChatBackend.csproj">
+      <Project>{f45b0ea3-70b7-4b4f-afdb-14f714115a48}</Project>
+      <Name>ChatBackend</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\StartMenu.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

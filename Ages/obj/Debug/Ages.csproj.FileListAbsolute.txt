@@ -1,0 +1,617 @@
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\VSP\Ages\Week6 UI\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\VSP\Ages\Test\Week6 UI\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\bin\Debug\Ages.exe.config
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\Ages.exe
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\Ages.pdb
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\bin\Debug\Ages.exe
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\bin\Debug\Ages.pdb
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\MainWindow.baml
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\MainWindow.g.cs
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\App.g.cs
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\Ages.g.resources
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+C:\Users\Jiachen\Desktop\Week6 UI\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\VSP\Ages\Week6 UI_new\Week6 UI\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Week6_Thursday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week7_Thursday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Week8_Thursday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Monday\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Week9_wednesday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week9_Wednesday_2\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Week9_Thursday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\test\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\test\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Week9_Sunday\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\test\Week9_Sunday\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11_Monday\Week10_Wednesday\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\test\Week10_Wednesday\Week10_Wednesday\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Test\Week11 Tuesday\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\test\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\New folder\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\New folder (2)\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+C:\Users\n8012601\Desktop\Ages\Ages\bin\Debug\Ages.exe.config
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages.exe
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages.pdb
+C:\Users\n8012601\Desktop\Ages\Ages\bin\Debug\Ages.exe
+C:\Users\n8012601\Desktop\Ages\Ages\bin\Debug\Ages.pdb
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\MainWindow.g.cs
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\App.g.cs
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\MainWindow.baml
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages.g.resources
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+C:\Users\n8012601\Desktop\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Ages_final\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project\Test\Ages_finalTwo\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project_sem2\Week 3_Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages.exe
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages.pdb
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\bin\Debug\Ages.exe
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\bin\Debug\Ages.pdb
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\App.g.cs
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Semester 3\Ages\Project_sem2\Week3_thursday\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Week4_Mon\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Project_sem2\Week4_mon_night\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages.exe
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages.pdb
+H:\Project_sem2\Week4_mon_night\Ages\Ages\bin\Debug\Ages.exe
+H:\Project_sem2\Week4_mon_night\Ages\Ages\bin\Debug\Ages.pdb
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\App.g.cs
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Project_sem2\Week4_mon_night\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week4_tue\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Project_sem2\Week4_Wed\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages.exe
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages.pdb
+H:\Project_sem2\Week4_Wed\Ages\Ages\bin\Debug\Ages.exe
+H:\Project_sem2\Week4_Wed\Ages\Ages\bin\Debug\Ages.pdb
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\App.g.cs
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Project_sem2\Week4_Wed\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\Ages\Week4_Thur\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Project_sem2\Week5\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages.exe
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages.pdb
+H:\Project_sem2\Week5\Ages\Ages\bin\Debug\Ages.exe
+H:\Project_sem2\Week5\Ages\Ages\bin\Debug\Ages.pdb
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\App.g.cs
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Project_sem2\Week5\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Project_sem2\testAges\Week6\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages.exe
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages.pdb
+H:\Project_sem2\testAges\Week6\Ages\Ages\bin\Debug\Ages.exe
+H:\Project_sem2\testAges\Week6\Ages\Ages\bin\Debug\Ages.pdb
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\App.g.cs
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Project_sem2\testAges\Week6\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+H:\Project_sem2\testAges\Week6\Ages\Ages\bin\Debug\ChatBackend.dll
+H:\Project_sem2\testAges\Week6\Ages\Ages\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\bin\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\bin\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages.exe
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages.pdb
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\bin\Debug\Ages.exe
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\bin\Debug\Ages.pdb
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\bin\Debug\ChatBackend.dll
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\bin\Debug\ChatBackend.pdb
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\App.g.cs
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+H:\Project_sem2\NetAges\Ages\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\bin\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\bin\Debug\Ages.exe.config
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\bin\Debug\Ages.exe
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\bin\Debug\Ages.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\bin\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\App.g.cs
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.cache
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages_MarkupCompile.lref
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages.g.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages.Ages_Resource.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio\NetAges\Ages (2)\Ages\Ages\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache

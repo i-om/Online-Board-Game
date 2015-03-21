@@ -1,0 +1,32 @@
+c:\Users\n8012601\documents\visual studio 2012\Projects\ChatGUI\ChatBackend\bin\Debug\ChatBackend.dll
+c:\Users\n8012601\documents\visual studio 2012\Projects\ChatGUI\ChatBackend\bin\Debug\ChatBackend.pdb
+c:\Users\n8012601\documents\visual studio 2012\Projects\ChatGUI\ChatBackend\obj\Debug\ChatBackend.csprojResolveAssemblyReference.cache
+c:\Users\n8012601\documents\visual studio 2012\Projects\ChatGUI\ChatBackend\obj\Debug\ChatBackend.dll
+c:\Users\n8012601\documents\visual studio 2012\Projects\ChatGUI\ChatBackend\obj\Debug\ChatBackend.pdb
+H:\Project_sem2\NetExample\ChatGUI\ChatBackend\bin\Debug\ChatBackend.dll
+H:\Project_sem2\NetExample\ChatGUI\ChatBackend\bin\Debug\ChatBackend.pdb
+H:\Project_sem2\NetExample\ChatGUI\ChatBackend\obj\Debug\ChatBackend.dll
+H:\Project_sem2\NetExample\ChatGUI\ChatBackend\obj\Debug\ChatBackend.pdb
+H:\Project_sem2\testAges\Week6\Ages\ChatBackend\bin\Debug\ChatBackend.dll
+H:\Project_sem2\testAges\Week6\Ages\ChatBackend\bin\Debug\ChatBackend.pdb
+H:\Project_sem2\testAges\Week6\Ages\ChatBackend\obj\Debug\ChatBackend.dll
+H:\Project_sem2\testAges\Week6\Ages\ChatBackend\obj\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\ChatBackend\bin\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\ChatBackend\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\ChatBackend\obj\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\ChatBackend\obj\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\ChatBackend\bin\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\ChatBackend\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Week6\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.csprojResolveAssemblyReference.cache
+H:\Project_sem2\NetAges\Ages\Ages\Ages\ChatBackend\bin\Debug\ChatBackend.dll
+H:\Project_sem2\NetAges\Ages\Ages\Ages\ChatBackend\bin\Debug\ChatBackend.pdb
+H:\Project_sem2\NetAges\Ages\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.csprojResolveAssemblyReference.cache
+H:\Project_sem2\NetAges\Ages\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.dll
+H:\Project_sem2\NetAges\Ages\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\ChatBackend\bin\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\ChatBackend\bin\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.dll
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.pdb
+D:\Program Files (x86)\Visual Studio\NetAges\Ages\Ages\ChatBackend\obj\Debug\ChatBackend.csprojResolveAssemblyReference.cache
